@@ -1,0 +1,59 @@
+body{
+    background-color: red;
+}
+
+
+#top
+{
+    background-color: whitesmoke;
+  height: 1000px;  
+  margin-right: 80px;
+  margin-left: 80px;
+  
+}
+
+#html{
+    background-color: sandybrown;
+    height: 100px;
+    margin:20px;
+    padding: 20px;
+   color: green;
+   font-size: large;
+   font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.para{
+    background-color: sandybrown;
+    width:50%;
+    margin-left: 30px;
+    padding: 10px;
+    float:left;
+
+}
+
+.para2{
+    background-color: sandybrown;
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+   
+    float:right;
+    width: 40%;
+    margin-top: 10px;
+   
+    
+    
+}
+.bottom{
+    background-color: sandybrown;
+    float: left;
+margin :20px;
+padding: 10px;
+    
+    width: 95%;
+    
+
+
+    
+}
